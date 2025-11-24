@@ -1,0 +1,42 @@
+# FastAPI & Server
+fastapi
+uvicorn[standard]
+
+# ORM & Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# Auth & Security
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+
+# Pydantic
+pydantic
+pydantic-settings
+
+# Document Processing
+PyPDF2
+pdfminer.six
+pytesseract
+Pillow
+
+# NLP / Text Processing
+nltk
+spacy
+
+# Email Handling
+imapclient
+python-dotenv
+
+# Utils
+requests
+python-dateutil
+
+# Optional Dashboard
+streamlit
+
+# Background Tasks / Scheduling
+apscheduler
